@@ -1,9 +1,7 @@
 # -*- coding:utf8 -*-
-pass
 #
 #   西刺ip代理池
 #
-pass
 #create_time=2017/8/21
 #author=zyy
 
